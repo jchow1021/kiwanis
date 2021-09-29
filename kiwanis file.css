@@ -3,21 +3,21 @@ body{
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 20px;
 	line-height: 30px;
+	background-color: white;
 }
 
 header{
-	background-color: #d14635;
+	background-color: #003874;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
 
 h1, h2{
-	font-family: 'Press Start 2P', cursive;
+	font-family: 'Knockout HTF67 FullBantamwt', 'Haettenschweiler ', 'Arial', sans-serif
 }
 
 /* header styles */
-/* write your comment here */
 
 header h1{
 	color: white;
@@ -25,9 +25,7 @@ header h1{
 }
 
 header img{
-	border-radius: 170px;
 	width: 300px;
-	border: 20px solid white;
 }
 
 main{
@@ -42,39 +40,18 @@ main img{
 
 h2{
 	font-size: 30px;
-	color: #e70c19;
+	color: #B49759;
 	margin: 40px 0 10px;
 }
 
-a{
-	color: #e70c19;
-}
-a:hover{
-	color: white;
-	background-color: #483a94;
-}
 
 footer{
-	background-color: #d14635;
+	background-color: #003874;
 	text-align: center;
 	color: white;
-	padding: 50px;
+	padding: 25px;
 }
 
 footer p{
 	margin: 0;
-}
-
-footer a{
-	color: white;
-}
-footer a:hover{
-	opacity:  .5;
-	color: white;
-}
-
-p.caption{
-	color: #999999;
-	font-style: italic;
-	margin-top: 0;
 }
